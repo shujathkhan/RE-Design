@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "recogdesign",
+  "private_key_id": "7ee2e39c152839dcd86ab9d5d4aef7f1d1a2d98b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDO3n5A+zm8lE91\n20vt2C7Yj60krzCvn142waXyc9eUZAxj3qUB9j/A1yQn/+9JIcnFqfFJRRqayEOJ\nBQmC10Cc+wP8hoIBqMZJNaAtpgzuR0cZ3oocKdsCdIe25tv+CWuJePWpEE3hdU07\nSni+NP47LST4h2yS5OKHX+7u34SGwn6fdZVfk8JX7RnvImdMfVn6tPcyLoONgre7\nMAl3whNzo97mEf4g9TC+cLFc5gq9fLQJ5m1GBSu5ReRqhbmFeNYvxpXf9K7j6naL\n1yNRDWEDjuZsCewSG3cfJL3uHcJDByyqTUXJDH4HYu57ljA0SoLRiQXxPDxPwxuM\n6m0uwtGlAgMBAAECggEAF5dQcxUjR7HrIN/eGBTd/MTfxC31YaXNPvXU+KIEzO+e\n6Rm4HBHqwdFXFnetoFup0LCZa1dl2g5qAztvkvv8qppGoVrugwVt/WXP6zzDPz4i\nKd1SxzTvvKcw3ecUYfNNj+sbKslI9GPl55PN0rUk4/c5Pt1kwJi5C6KhUxzq1lot\nzGFksD886GCj11/0BrxN3xIz4FQ8ADotS/4U1lofYxa4KNUMMT61ouFLiwgLJyfQ\nhiiJ/NTFB/JvgIIK/hqHxP34Zw0o/aHqP4cWdWrxUhZBpscJ9nxc51jekoR1BaP5\nzjG2uLXUkcyL/4ZxkqdzA4VhtEFqX9YqEQhwcevPMQKBgQDopMA4LfPAzAVYzhTM\nccccDRW1pU9LnoY3UAR2QQsEIMPIkcgTn6WL3d06H6BL8nFCF3aLru4uJH1iXiAS\nVk7I3Adv9GV8E0GUaOgODBobrq4qjn+rIlt0SFIXG910jhWkevoiSTtvCHzv18lQ\nb7kU5gOVmbGpk56oMPBD9XU+VQKBgQDjo04HPTjmB1XLQBxYggk+CzbfBRI+lqq4\no7WWTH4w+pWCbA2p7YMHJ71M1v1GupHs9+gl2BxY6yUy7xm441xxYUkdedqJeWlS\ncAbC1roPTf2GKesP6SdZKJw1ezRFT7ms5gN+h6IWe/HCUUTnD3h2KuBL3buVyIye\nNAvag8T2EQKBgBmi/iOyvKfEU9qDaztUVnK65meL/f8BSx0RTkyRwlsEGU8i8X9o\nGmAdZOGg1pNH9j8oQsIF1u1yy/ZpFPOwWyI7TP6DWiOgI5vtK5VQtBfU2hCKf3sm\nYBmiVpmBUpgjiDMF8kaQ92G2972ec+rPRQAOkNqNg0yCnfs+2VtD01W5AoGAGXTs\nx/B3yXmuhYFQ6jD4maClbUFi7e7pfqaIKxu4zP9o8uHkkUlHauhtygcM4fkBUq/S\nnVDSsrrxOQX2KW/7qY5In+w9nTwfpCF1EBr1SbreDD/p0qivRtA8z9pMWSf2Sria\nUW8XmE4aFjICc5iOTyCyXqmYTcLUvuhxHum3gBECgYEAseDdzSDfzeGkfaqzmpaB\nTMY20AMljU+F9KLrQZWd/4c9DFW/t4Vrh5DJlKV2TosdIuS3HrmTa2n1fPZ4kOBz\nnhYtCHzxVmIqdk1JZYNO2Zdw2DuRlGMUUKH98jSqjswhOxKbASrtwyI+Y1tOW4a1\nBiyR+37fbYs1RV68YzuVrgw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "recog-design@recogdesign.iam.gserviceaccount.com",
+  "client_id": "115715645579912327731",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/recog-design%40recogdesign.iam.gserviceaccount.com"
+}
